@@ -1,0 +1,6 @@
+{
+  "name": "MongolVoice — Mongolian to English Speech Translator",
+  "description": "Real-time Mongolian-to-English speech recognition and offline-capable translation module for personal assistant AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
